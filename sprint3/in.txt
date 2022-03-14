@@ -1,0 +1,36 @@
+<html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>This is title</title>
+
+<h1>This is heading 1</h1>
+
+<h2>This is heading 2</h2>
+
+<h3>
+    This is heading 3
+</h3>
+
+<h4>
+    This is heading 4.
+</h4>
+
+<h5>This is heading 5.</h5>
+<p>Sample <b>text</b></p>
+<p>Sample <b>text 2</b></p>
+<h6>This is heading 6.</h6>
+<p>This is paragraph.</p>
+
+<p>
+    This is paragraph with spacing.
+</p>
+
+Outside with no tags.
+
+ <br>
+            <br>
+    <p title="wonderful"> Some <b>text</b> </p>
+    </body>
+</html>

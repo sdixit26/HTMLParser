@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/supriyadixit/Desktop/C/sprint3/main3.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/supriyadixit/Desktop/C/sprint3/main4.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

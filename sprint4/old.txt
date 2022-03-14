@@ -1,0 +1,5 @@
+<html>
+    <title>
+        Simple title test for removing known tags
+    </title>
+</html>
